@@ -14,4 +14,5 @@ int main () {
 
     fprintf(file, "%s", sentence);
     fclose(file);
+    return 0;
 }
